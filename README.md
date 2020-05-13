@@ -2,7 +2,7 @@
 <!-- Italics -->
 *Push yourself, because no one else is going to do it for you*
 <!-- Images -->
-![ My photo](kushal.jpg)
+![ My photo](markdown/kushal.jpg)
 
 ## I am someone who enjoys every moment without thinking about the past or the future.
 
